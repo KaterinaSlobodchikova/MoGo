@@ -361,7 +361,7 @@
     justify-content: center;
 }
 
-.divider3 {
+.divider-bot {
     position: absolute;
     width: 252px;
     height: 0px;
@@ -369,60 +369,30 @@
     border: 1px solid;
     margin-top: 125px;
     color: #fff;
+}
+
+.divider-first {
     margin-left: 50px;
 }
 
-.divider4 {
-    position: absolute;
-    width: 252px;
-    height: 0px;
-    transform: rotate(90deg);
-    border: 1px solid;
-    margin-top: 125px;
-    color: #fff;
+.divider-second {
     margin-left: 300px;
 }
 
-.divider5 {
-    position: absolute;
-    width: 252px;
-    height: 0px;
-    transform: rotate(90deg);
-    border: 1px solid;
-    margin-top: 125px;
-    color: #fff;
-    margin-left: 524px;
+.divider-third {
+    margin-left: 520px;
 }
 
-.divider6 {
-    position: absolute;
-    width: 252px;
-    height: 0px;
-    transform: rotate(90deg);
-    border: 1px solid;
-    margin-top: 125px;
-    color: #fff;
-    margin-left: 744px;
+.divider-forth {
+    margin-left: 740px;
 }
 
-.divider7 {
-    position: absolute;
-    width: 252px;
-    height: 0px;
-    transform: rotate(90deg);
-    border: 1px solid;
-    margin-top: 125px;
-    color: #fff;
-    margin-left: 964px;
+.divider-fifth {
+    margin-left: 960px;
 }
 
-.divider8 {
-    position: absolute;
-    width: 252px;
-    height: 0px;
-    transform: rotate(90deg);
-    border: 1px solid;
-    margin-top: 125px;
-    color: #fff;
+.divider-sixth {
     margin-left: 1190px;
 }
+
+
